@@ -42,3 +42,15 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+   Three favorite apps of mine and reasons why are:
+   Instagram:
+   -Connect with people from around the world
+   -Send funny videos
+   BeReal:
+   -Have to take a photo of yourself on the spot
+   -See on the spot photos from your friends
+   Spotify:
+   -Listen to music
+   -Functionality
