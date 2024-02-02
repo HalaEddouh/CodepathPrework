@@ -54,3 +54,6 @@ Describe any challenges encountered while building the app.
    Spotify:
    -Listen to music
    -Functionality
+
+
+An app I would like to create is one where you can share your favorite places and items with friends!
